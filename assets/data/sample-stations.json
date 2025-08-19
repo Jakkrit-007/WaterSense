@@ -1,7 +1,4 @@
-{
-  "@attributes": {
-    "Version": "2.0"
-  },
+
   "Header": {
     "Title": "WeatherToday",
     "Description": "Today's Weather Observation",
